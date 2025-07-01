@@ -1,0 +1,1 @@
+NOTE: The "uploads" and "public" folders are not included in this commit because they are created dynamically at runtime by server.js. This avoids storing temporary or user-uploaded files in the repository.
